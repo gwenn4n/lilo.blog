@@ -1,7 +1,7 @@
 +++
 title = "Der Weg zum Grenzfall"
 date = "2024-06-17"
-draft = true
+draft = false
 pinned = false
 +++
 Die Zeit läuft der Bodenfruchtbarkeit davon. Der Boden hat keine Zeit zur Regeneration, wird von Monokulturen belastet und die Erde leidet an Mineralienmangel. 
