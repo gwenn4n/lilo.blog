@@ -1,6 +1,6 @@
 +++
 title = "Dein Stück Erde in Bern"
-date = "2024-06-17"
+date = "2024-06-14"
 draft = false
 pinned = false
 +++
