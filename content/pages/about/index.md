@@ -1,13 +1,11 @@
 +++
-title = "About me"
-draft = false
+title = "About us"
+draft = true
+image = ""
 description = ""
-image = "/img/default-author.jpg"
 +++
-![](/img/default-author.jpg)
+![](reportage-3.jpg)
 
-## My Name
+## Hannah & Gwennan
 
-mail@example.org
-
-Here should be some info about me...
+Hey:)
