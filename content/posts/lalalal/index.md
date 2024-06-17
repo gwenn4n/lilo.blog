@@ -1,7 +1,7 @@
 +++
 title = "lalalal"
 date = "2024-06-17"
-draft = true
+draft = false
 pinned = false
 +++
 heheh
