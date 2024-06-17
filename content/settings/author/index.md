@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Hannah Rudge & Gwennan Albrecht"
-image = "/img/default-author.jpg"
+image = "/media/reportage.jpg"
 url = "/about/"
 +++
