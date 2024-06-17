@@ -1,6 +1,6 @@
 +++
 title = "Saisonal statt Pestizide"
-date = "2024-06-17"
+date = "2024-06-10"
 draft = false
 pinned = false
 +++
