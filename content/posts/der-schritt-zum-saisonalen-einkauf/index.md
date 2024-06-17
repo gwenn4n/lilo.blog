@@ -1,6 +1,6 @@
 +++
-title = "\"Der Schritt zum saisonalen Einkauf\""
-date = "2024-06-09"
+title = "Der Schritt zum saisonalen Einkauf"
+date = "2024-06-17"
 draft = false
 pinned = false
 +++
