@@ -1,6 +1,6 @@
 +++
 title = "Der Weg zum Grenzfall"
-date = "2024-06-12"
+date = "2024-06-18"
 draft = false
 pinned = false
 +++
