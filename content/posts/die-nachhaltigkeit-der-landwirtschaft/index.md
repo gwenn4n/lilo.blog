@@ -20,6 +20,27 @@ Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918
 
 Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstrasse. Auf einem grossen Schild stand «Willkommen im INFORAMA». Links davon erstreckte sich der Weltacker, ein 2000 Quadratmeter grosses Feld. Dies entspricht der Ackerfläche, die jedem Menschen auf der Erde zur Verfügung steht. Rund um das Feld stand für jede Kultur ein Plakat. Diese erklärten einleuchtend die Auswirkungen der jeweiligen Kulturen auf die Umwelt. 
 
+{{<box>}}
+
+**Die Fruchtbarkeit der Böden ging zurück, weil man die Böden zu intensiv genutzt hat.** 
+
+* Viel Bearbeitung 
+* Mit schweren Geräten reinfahren à der Boden kann sich in der kurzen Zeit gar nicht voll stabilisieren, führt zu Verdichtungen, dann kann der Boden nicht gut Wasser aufnehmen 
+
+**Empfehlung:** 
+
+* Boden mit reduzierter Intensität bearbeiten 
+* Boden mit weniger Gewicht befahren 
+* Der Boden sollte über das ganze Jahr bedeckt sein (so wie eine Naturwiese), zum Nachliefern von Nährstoffen 
+
+**Auswirkung wenn es s weiter geht:** 
+
+* Gewisse Böden und Felder werden nicht mehr so genutzt werden können, weil die Funktionsfähigkeit nicht mehr gegeben ist.
+
+{{</box>}}
+
+
+
 Auf der weltweit pro Person zur Verfügung stehenden Fläche werden auf dem Weltacker Bern in Zollikofen die 50 meistangebauten Kulturen anschaulich gezeigt. 
 
 ![](reportage-7.jpg "Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht")
