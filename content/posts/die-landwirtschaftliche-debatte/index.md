@@ -1,6 +1,6 @@
 +++
 title = "Die landwirtschaftliche Debatte"
-date = "2024-06-13"
+date = "2024-06-16"
 draft = false
 pinned = false
 +++
