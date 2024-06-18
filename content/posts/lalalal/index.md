@@ -1,6 +1,6 @@
 +++
 title = "Saisonal statt Pestizide"
-date = "2024-06-10"
+date = "2024-06-14"
 draft = false
 pinned = false
 image = "reportage-11.webp"
