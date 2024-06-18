@@ -1,6 +1,6 @@
 +++
 title = "Dein Stück Erde in Bern"
-date = "2024-06-14"
+date = "2024-06-17"
 draft = false
 pinned = false
 image = "reportage-13.jpg"
