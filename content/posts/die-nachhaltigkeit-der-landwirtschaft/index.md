@@ -14,11 +14,7 @@ Der Boden wird unfruchtbar, während der Mensch weiterkonsumiert – die Angehen
 
 Die Zeit läuft der Bodenfruchtbarkeit davon. Der Boden hat keine Zeit zur Regeneration, wird von Monokulturen belastet und die Erde leidet an Mineralienmangel. 1850 begann die Schweizer Bevölkerung drastisch zu steigen. Während sich die Industrialisierung entwickelte, nahm die Anzahl Landwirtinnen stetig ab. Durch den zunehmenden Import verringerte sich die zur Agrarkultur verwendete Fläche. Im Jahr 1850 nahm der Getreideimport in der Schweiz deutlich zu. Dies hatte zur Folge, dass der Ackerbau, durch die günstigeren Importpreise, in den Alpen unrentabel wurde. Infolgedessen mussten viele Bauerinnen ihren traditionellen Getreideanbau aufgeben. Stattdessen verbreitete sich die Milchproduktproduktion. Dadurch wird die Schweiz als Milch- und Käseland geprägt. Dies zeigt sich in den traditionellen Schweizer Gerichten, Fondue und Raclette. Zur Gewinnmaximierung beginnen Landwirt*innen, ihre Tiere ganzjährig einzustallen. In den 1870er Jahren werden die ersten Pestizide eingesetzt. Die traditionelle Landwirtschaft erlebt einen Niedergang, und es kommt zu einer grossen Abwanderungsbewegung, was zum ersten Landwirtschaftsgesetz führt. 
 
-Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918 wurde eine Vereinigung gegründet, um die obligatorische Nahrungsmittelproduktion auszuweiten und die Menschen vor Hunger zu bewahren. In der Zwischenkriegszeit erlebte die Schweiz eine bedeutende Ausbreitung der landwirtschaftlichen Flächen. Diese sicherte der Schweiz eine Selbstversorgung und Sicherheit. In Bern dominieren die grösseren und mittleren Betriebe und die Bedeutung der Bodenverbesserung nimmt zu. Während des Zweiten Weltkriegs werden die Bauern idolisiert, doch viele werden zum Militärdienst eingezogen. Trotz verschlechterter Bedingungen steigt die Produktion dank Ertrags- und Produktivitätssteigerungen. Diese steigt so weit, dass die Produktionsaktivität mit dem Bevölkerungswachstum mithalten kann. Die Selbstversorgung baut sich aus. Die Nachkriegszeit war geprägt von einem raschen Strukturwandel und einer enormen Steigerung der Erträge. Eine neue Agrarrevolution beruhte auf Zuchterfolgen, Motorisierung und dem Einsatz von Kunstdünger und Pflanzenschutzmitteln. In den 1990er Jahren setzte eine Umorientierung hin zu stärkerer Marktorientierung und ökologischen Zielen ein. 
-
-## Dein Stück Erde in Bern 
-
-Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstrasse. Auf einem grossen Schild stand «Willkommen im INFORAMA». Links davon erstreckte sich der Weltacker, ein 2000 Quadratmeter grosses Feld. Dies entspricht der Ackerfläche, die jedem Menschen auf der Erde zur Verfügung steht. Rund um das Feld stand für jede Kultur ein Plakat. Diese erklärten einleuchtend die Auswirkungen der jeweiligen Kulturen auf die Umwelt. 
+Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918 wurde eine Vereinigung gegründet, um die obligatorische Nahrungsmittelproduktion auszuweiten und die Menschen vor Hunger zu bewahren. In der Zwischenkriegszeit erlebte die Schweiz eine bedeutende Ausbreitung der landwirtschaftlichen Flächen. Diese sicherte der Schweiz eine Selbstversorgung und Sicherheit. In Bern dominieren die grösseren und mittleren Betriebe und die Bedeutung der Bodenverbesserung nimmt zu. 
 
 {{<box>}}
 
@@ -39,7 +35,11 @@ Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstra
 
 {{</box>}}
 
+Während des Zweiten Weltkriegs werden die Bauern idolisiert, doch viele werden zum Militärdienst eingezogen. Trotz verschlechterter Bedingungen steigt die Produktion dank Ertrags- und Produktivitätssteigerungen. Diese steigt so weit, dass die Produktionsaktivität mit dem Bevölkerungswachstum mithalten kann. Die Selbstversorgung baut sich aus. Die Nachkriegszeit war geprägt von einem raschen Strukturwandel und einer enormen Steigerung der Erträge. Eine neue Agrarrevolution beruhte auf Zuchterfolgen, Motorisierung und dem Einsatz von Kunstdünger und Pflanzenschutzmitteln. In den 1990er Jahren setzte eine Umorientierung hin zu stärkerer Marktorientierung und ökologischen Zielen ein. 
 
+## Dein Stück Erde in Bern 
+
+Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstrasse. Auf einem grossen Schild stand «Willkommen im INFORAMA». Links davon erstreckte sich der Weltacker, ein 2000 Quadratmeter grosses Feld. Dies entspricht der Ackerfläche, die jedem Menschen auf der Erde zur Verfügung steht. Rund um das Feld stand für jede Kultur ein Plakat. Diese erklärten einleuchtend die Auswirkungen der jeweiligen Kulturen auf die Umwelt. 
 
 Auf der weltweit pro Person zur Verfügung stehenden Fläche werden auf dem Weltacker Bern in Zollikofen die 50 meistangebauten Kulturen anschaulich gezeigt. 
 
