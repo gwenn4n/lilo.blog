@@ -1,6 +1,6 @@
 +++
 title = "Der Schritt zum saisonalen Einkauf"
-date = "2024-06-15"
+date = "2024-06-14"
 draft = false
 pinned = false
 +++
