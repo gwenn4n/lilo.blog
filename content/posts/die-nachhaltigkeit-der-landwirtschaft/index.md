@@ -22,7 +22,7 @@ Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstra
 
 Auf der weltweit pro Person zur Verfügung stehenden Fläche werden auf dem Weltacker Bern in Zollikofen die 50 meistangebauten Kulturen anschaulich gezeigt. 
 
-![](reportage-16.png "Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht")
+![](reportage-7.jpg "Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht")
 
 Martin Huggenberger zeigte uns die Baumwollfläche und erklärte, dass einer Person nur ein bis zwei Baumwoll-T-Shirts pro Jahr zur Verfügung stehen. Um die Schweiz unabhängig von Importen zu machen, würden jedem Menschen hierzulande 480 Quadratmeter zur Verfügung stehen – etwa ein Viertel der globalen Landfläche pro Kopf. Huggenberger betonte, dass eine unabhängige Schweiz möglich sei, dies aber eine Verringerung des Konsums von Tierprodukten erfordere. Nur so viel Tierisches könne konsumiert werden, wie Tiere gezüchtet werden können, ohne dass sie von den für Menschen bestimmten Ackerflächen gefüttert werden. Das bedeutet, dass Tiere vollständig von Grünflächen ernährt werden müssten. Zusätzlich müsse der Anteil an nährstoffreichen Kulturen wie Kartoffeln und Leguminosen erhöht werden. 
 
@@ -30,7 +30,7 @@ Aktuell werden in Mitteleuropa fast 3000 Quadratmeter pro Kopf genutzt. Dies ent
 
  Dieser Ressourcenverbrauch mag zwar kurzfristig gewinnmaximierend wirken, ist jedoch mittel- und langfristig das Gegenteil von Nachhaltigkeit. 
 
-Die landwirtschaftliche Debatte 
+## Die landwirtschaftliche Debatte 
 
 In der Landwirtschaft müssen viele Aspekte verbessert werden, das ist allen klar. Doch wie das geschehen soll, darüber gehen die Meinungen auseinander. 
 
@@ -51,8 +51,6 @@ Die Diskussion zeigt: Die Zukunft der Landwirtschaft wird heiss debattiert. Jede
 ## Saisonal statt Pestizide 
 
 ![](reportage-15.jpg "Beispiele von saisonalem Gemüse in Bern")
-
-
 
 Mittlerweile sind Bioprodukte über alle Verkaufskanäle erhältlich und ihr Marktanteil nimmt stetig zu. Bei nebligem Wetter begrüssen wir Chäspi Rentsch beim Eingang des Gymnasiums Kirchenfeld. Wir schütteln die Hand, tauschen uns aus und führen das Mitglied der Jungen Grünen in die Mediothek. Dort erzählt Chäspi vom Bauernhof seiner Eltern in Arni, Bern, wo er aufgewachsen ist. Solange sich der 24-Jährige erinnern kann, produzieren seine Eltern biologisch. Vor 24 Jahren übernahmen sie den Hof der Großeltern und liessen ihn als Biobauernhof zertifizieren. Auf Pestizide wurden schon einige Jahre zuvor verzichtet. Ohne Zertifizierung wird dies jedoch nicht anerkannt.  Viele Bauer\*innen stehen vor dem gleichen Problem, da sich nicht jede und jeder eine Bio-Zertifizierung leisten kann. Die Bauer\*innen können ihren kostenintensiven Preis ohne Zertifizierung nicht begründen, obwohl sie gleichen Aufwand erbringen wie biologisch zertifizierte Produzent*innen. 
 
