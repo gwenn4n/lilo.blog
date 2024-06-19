@@ -25,7 +25,7 @@ Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918
 
 **Empfehlung:** 
 
-* Boden mit reduzierter Intensität bearbeiten 
+* Boden mit reduzierter Intensität bearbeiten. Konkret heisst dies, dass es auf eine tiefe und intensive Lockerung der Boden verzichtet werden soll. So kann der Bodenstruktur und Bodenleben geschont werden.
 * Boden mit weniger Gewicht befahren 
 * Der Boden sollte über das ganze Jahr bedeckt sein (so wie eine Naturwiese), zum Nachliefern von Nährstoffen 
 
