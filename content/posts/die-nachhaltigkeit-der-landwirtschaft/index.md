@@ -39,7 +39,7 @@ Während des Zweiten Weltkriegs werden die Bauern idolisiert, doch viele werden 
 
 ## Dein Stück Erde in Bern 
 
-Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstrasse. Auf einem grossen Schild stand «Willkommen im INFORAMA». Links davon erstreckte sich der Weltacker, ein 2000 Quadratmeter grosses Feld. Dies entspricht der Ackerfläche, die jedem Menschen auf der Erde zur Verfügung steht. Auf diesen 2000 Quadratmeter sahen wir viele verschiedene Arten von Pflanzen, die am Wachsen waren. Schnell wurde uns klar, dass es die Aufteilung der Ackerlandfläche massstäblich repräsentierte. Rund um das Feld stand für jede Kultur ein Plakat. Diese erklärten einleuchtend die Auswirkungen der jeweiligen Kulturen auf die Umwelt. 
+Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstrasse. Auf einem grossen Schild stand «Willkommen im INFORAMA». Links davon erstreckte sich der Weltacker, ein 2000 Quadratmeter grosses Feld. Dies entspricht der Ackerfläche, die jedem Menschen auf der Erde zur Verfügung steht. Rund um das Feld stand für jede Kultur ein Plakat. Diese erklärten einleuchtend die Auswirkungen der jeweiligen Kulturen auf die Umwelt. 
 
 Auf der weltweit pro Person zur Verfügung stehenden Fläche werden auf dem Weltacker Bern in Zollikofen die 50 meistangebauten Kulturen anschaulich gezeigt. 
 
