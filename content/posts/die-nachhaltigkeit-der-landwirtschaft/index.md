@@ -61,7 +61,7 @@ Als nächstes besuchte uns Chäspi Rentsch. Wir erkannten ihn sofort als wir ihn
 
 Jason Steinmann hingegen sieht den Import gleichwertiger Produkte als positiv. Er würde die Zölle senken und Subventionen reduzieren oder ganz streichen, um den Export zu fördern und die Landwirtschaft wettbewerbsfähiger zu machen. 
 
-Doch es gibt noch andere Perspektiven. Martin und Linda vom Weltacker in Bern meinen, der „worst case“ sei nicht mehr weit, da die Wertschätzung für Landwirt\*innen verloren gegangen sei. Den Konsumierenden sei nicht mehr bewusst, dass die Landwirtschaft vom Wetter, von Maschinen und von großen Betrieben abhängig ist. Landwirt\*innen stünden so unter Druck, dass sie sich nicht mehr leisten können, Neues auszuprobieren. 
+Doch es gibt noch andere Perspektiven. Martin und Linda vom Weltacker in Bern meinen, der „worst case“ sei nicht mehr weit, da die Wertschätzung für Landwirt\*innen verloren gegangen sei. Den Konsumierenden sei nicht mehr bewusst, dass die Landwirtschaft vom Wetter, von Maschinen und von grossen Betrieben abhängig ist. Landwirt\*innen stünden so unter Druck, dass sie sich nicht mehr leisten können, Neues auszuprobieren. 
 
 > Martin stellt klar: «Landwirtschaft braucht Wertschätzung – Sie wurde in den letzten Jahren zu einer Selbstverständlichkeit.» 
 
