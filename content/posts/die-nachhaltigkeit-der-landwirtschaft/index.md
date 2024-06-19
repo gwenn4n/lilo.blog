@@ -21,7 +21,7 @@ Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918
 **Die Fruchtbarkeit der Böden ging zurück, weil man die Böden zu intensiv genutzt hat.** 
 
 * Viel Bearbeitung 
-* Mit schweren Geräten reinfahren à der Boden kann sich in der kurzen Zeit gar nicht voll stabilisieren, führt zu Verdichtungen, dann kann der Boden nicht gut Wasser aufnehmen 
+* Durch das Befahren des Bodens mit schweren Geräten hat dieser nicht genügend Zeit, sich vollständig zu stabilisieren. Dies führt zu Verdichtungen, wodurch der Boden nicht mehr gut Wasser aufnehmen kann.
 
 **Empfehlung:** 
 
