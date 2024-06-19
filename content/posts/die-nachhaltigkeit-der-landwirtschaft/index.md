@@ -29,7 +29,7 @@ Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918
 * Boden mit weniger Gewicht befahren 
 * Der Boden sollte über das ganze Jahr bedeckt sein (so wie eine Naturwiese), zum Nachliefern von Nährstoffen 
 
-**Auswirkung wenn es s weiter geht:** 
+**Auswirkung wenn es so weiter geht:** 
 
 * Gewisse Böden und Felder werden nicht mehr so genutzt werden können, weil die Funktionsfähigkeit nicht mehr gegeben ist.
 
