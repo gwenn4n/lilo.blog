@@ -65,7 +65,7 @@ Doch es gibt noch andere Perspektiven. Martin und Linda vom Weltacker in Bern me
 
 > Martin stellt klar: «Landwirtschaft braucht Wertschätzung – Sie wurde in den letzten Jahren zu einer Selbstverständlichkeit.» 
 
-Abschließend betonte Linda, dass die Hälfte aller Nahrung noch nicht industriell produziert wird und dass kleine Bauernhöfe wertgeschätzt und unterstützt werden müssten. Unser wettbewerbs- und geldgesteuertes System unterstützt jedoch andere Tendenzen. 
+Abschliessend betonte Linda, dass die Hälfte aller Nahrung noch nicht industriell produziert wird und dass kleine Bauernhöfe wertgeschätzt und unterstützt werden müssten. Unser wettbewerbs- und geldgesteuertes System unterstützt jedoch andere Tendenzen. 
 
 Die Diskussion zeigt: Die Zukunft der Landwirtschaft wird heiss debattiert. Jede und jeder hat eine eigene Vision – doch welche sich durchsetzt, wird die Zeit zeigen. 
 
