@@ -43,7 +43,7 @@ Mit nassen Füssen und tropfendem Haar schlenderten wir über die lange Landstra
 
 Auf der weltweit pro Person zur Verfügung stehenden Fläche werden auf dem Weltacker Bern in Zollikofen die 50 meistangebauten Kulturen anschaulich gezeigt. 
 
-![Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht](reportage-7.jpg "Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht")
+![Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht (Foto: Gwennan)](reportage-7.jpg "Anteil der Baumwolle auf der Ackerfläche, die pro Person zur Verfügung steht")
 
 Martin Huggenberger zeigte uns die Baumwollfläche und erklärte, dass einer Person nur ein bis zwei Baumwoll-T-Shirts pro Jahr zur Verfügung stehen. Um die Schweiz unabhängig von Importen zu machen, würden jedem Menschen hierzulande 480 Quadratmeter zur Verfügung stehen – etwa ein Viertel der globalen Landfläche pro Kopf. Huggenberger betonte, dass eine unabhängige Schweiz möglich sei, dies aber eine Verringerung des Konsums von Tierprodukten erfordere. Nur so viel Tierisches könne konsumiert werden, wie Tiere gezüchtet werden können, ohne dass sie von den für Menschen bestimmten Ackerflächen gefüttert werden. Das bedeutet, dass Tiere vollständig von Grünflächen ernährt werden müssten. Zusätzlich müsse der Anteil an nährstoffreichen Kulturen wie Kartoffeln und Leguminosen erhöht werden. 
 
