@@ -71,7 +71,7 @@ Die Diskussion zeigt: Die Zukunft der Landwirtschaft wird heiss debattiert. Jede
 
 ## Saisonal statt Pestizide 
 
-![Beispiele von saisonalem Gemüse in Bern](reportage-15.jpg "Beispiele von saisonalem Gemüse in Bern")
+![Beispiel von sommerlichem saisonalem Gemüse in Bern](reportage-15.jpg "Beispiele von saisonalem Gemüse in Bern")
 
 Mittlerweile sind Bioprodukte über alle Verkaufskanäle erhältlich und ihr Marktanteil nimmt stetig zu. Bei nebligem Wetter begrüssen wir Chäspi Rentsch beim Eingang des Gymnasiums Kirchenfeld. Wir schütteln die Hand, tauschen uns aus und führen das Mitglied der Jungen Grünen in die Mediothek. Dort erzählt Chäspi vom Bauernhof seiner Eltern in Arni, Bern, wo er aufgewachsen ist. Solange sich der 24-Jährige erinnern kann, produzieren seine Eltern biologisch. Vor 24 Jahren übernahmen sie den Hof der Grosseltern und liessen ihn als Biobauernhof zertifizieren. Auf Pestizide wurden schon einige Jahre zuvor verzichtet. Ohne Zertifizierung wird dies jedoch nicht anerkannt.  Viele Bauer\*innen stehen vor dem gleichen Problem, da sich nicht jede und jeder eine Bio-Zertifizierung leisten kann. Die Bauer\*innen können ihren kostenintensiven Preis ohne Zertifizierung nicht begründen, obwohl sie gleichen Aufwand erbringen wie biologisch zertifizierte Produzent*innen. 
 
