@@ -6,15 +6,15 @@ pinned = false
 +++
 {{<lead>}}
 
-Der Boden wird unfruchtbar, während der Mensch weiterkonsumiert – die Angehensweisen sind gespalten.  
+Der Boden wird unfruchtbar, während der Mensch weiterkonsumiert – die Herangehensweisen sind gespalten.  
 
 {{</lead>}}
 
 ## Der Weg zum Grenzfall 
 
-Die Zeit läuft der Bodenfruchtbarkeit davon. Der Boden hat keine Zeit zur Regeneration, wird von Monokulturen belastet und die Erde leidet an Mineralienmangel. 1850 begann die Schweizer Bevölkerung drastisch zu steigen. Während sich die Industrialisierung entwickelte, nahm die Anzahl Landwirtinnen stetig ab. Durch den zunehmenden Import verringerte sich die zur Agrarkultur verwendete Fläche. Im Jahr 1850 nahm der Getreideimport in der Schweiz deutlich zu. Dies hatte zur Folge, dass der Ackerbau, durch die günstigeren Importpreise, in den Alpen unrentabel wurde. Infolgedessen mussten viele Bauerinnen ihren traditionellen Getreideanbau aufgeben. Stattdessen verbreitete sich die Milchproduktproduktion. Dadurch wird die Schweiz als Milch- und Käseland geprägt. Dies zeigt sich in den traditionellen Schweizer Gerichten, Fondue und Raclette. Zur Gewinnmaximierung beginnen Landwirt*innen, ihre Tiere ganzjährig einzustallen. In den 1870er Jahren werden die ersten Pestizide eingesetzt. Die traditionelle Landwirtschaft erlebt einen Niedergang, und es kommt zu einer grossen Abwanderungsbewegung, was zum ersten Landwirtschaftsgesetz führt. 
+Die Zeit läuft der Bodenfruchtbarkeit davon. Der Boden hat keine Zeit zur Regeneration, wird von Monokulturen belastet und die Erde leidet an Mineralienmangel. 1850 begann die Schweizer Bevölkerung drastisch zu steigen. Während sich die Industrialisierung entwickelte, nahm die Anzahl Landwirt*innen stetig ab. Durch den zunehmenden Import verringerte sich die zur Agrarkultur verwendete Fläche. Im Jahr 1850 nahm der Getreideimport in der Schweiz deutlich zu. Dies hatte zur Folge, dass der Ackerbau, durch die günstigeren Importpreise, in den Alpen unrentabel wurde. Infolgedessen mussten viele Bauer*innen ihren traditionellen Getreideanbau aufgeben. Stattdessen verbreitete sich die Milchwirtschaft. Dadurch wird die Schweiz als Milch- und Käseland geprägt. Dies zeigt sich in den traditionellen Schweizer Gerichten, Fondue und Raclette. Zur Gewinnmaximierung beginnen Landwirt*innen, ihre Tiere ganzjährig einzustallen. In den 1870er Jahren werden die ersten Pestizide eingesetzt. Die traditionelle Landwirtschaft erlebt einen Niedergang, und es kommt zu einer grossen Abwanderungsbewegung, was zum ersten Landwirtschaftsgesetz führt. 
 
-Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918 wurde eine Vereinigung gegründet, um die obligatorische Nahrungsmittelproduktion auszuweiten und die Menschen vor Hunger zu bewahren. In der Zwischenkriegszeit erlebte die Schweiz eine bedeutende Ausbreitung der landwirtschaftlichen Flächen. Diese sicherte der Schweiz eine Selbstversorgung und Sicherheit. In Bern dominieren die grösseren und mittleren Betriebe und die Bedeutung der Bodenverbesserung nimmt zu. 
+Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918 wurde eine Vereinigung gegründet, um die obligatorische Nahrungsmittelproduktion auszuweiten und die Menschen vor Hunger zu bewahren. In der Zwischenkriegszeit erlebte die Schweiz eine bedeutende Ausbreitung der landwirtschaftlichen Flächen. Diese sicherte der Schweiz eine Selbstversorgung und Sicherheit. Im Kanton Bern dominieren die grösseren und mittleren Betriebe und die Bedeutung der Bodenverbesserung nimmt zu. 
 
 {{<box>}}
 
@@ -25,17 +25,17 @@ Nach dem Ersten Weltkrieg brach eine markante Ernährungskrise aus. Im Jahr 1918
 
 **Empfehlung:** 
 
-* Boden mit reduzierter Intensität bearbeiten. Konkret heisst dies, dass es auf eine tiefe und intensive Lockerung der Boden verzichtet werden soll. So kann der Bodenstruktur und Bodenleben geschont werden.
+* Boden mit reduzierter Intensität bearbeiten. Konkret heisst dies, dass auf tiefe und intensive Lockerung des Bodens verzichtet werden soll. So kann die Bodenstruktur und das Bodenleben geschont werden.
 * Boden mit weniger Gewicht befahren 
-* Der Boden sollte über das ganze Jahr bedeckt sein (so wie eine Naturwiese), zum Nachliefern von Nährstoffen 
+* Der Boden sollte über das ganze Jahr bedeckt sein (so wie eine Naturwiese), zum Nachliefern von Nährstoffen. 
 
 **Auswirkung wenn es so weiter geht:** 
 
-* Gewisse Böden und Felder werden nicht mehr so genutzt werden können, weil die Funktionsfähigkeit nicht mehr gegeben ist.
+* Gewisse Böden und Felder können nicht mehr so genutzt werden, weil ihre Funktionsfähigkeit nicht mehr gegeben ist.
 
 {{</box>}}
 
-Während des Zweiten Weltkriegs werden die Bauern idolisiert, doch viele werden zum Militärdienst eingezogen. Trotz verschlechterter Bedingungen steigt die Produktion dank Ertrags- und Produktivitätssteigerungen. Diese steigt so weit, dass die Produktionsaktivität mit dem Bevölkerungswachstum mithalten kann. Die Selbstversorgung baut sich aus. Die Nachkriegszeit war geprägt von einem raschen Strukturwandel und einer enormen Steigerung der Erträge. Eine neue Agrarrevolution beruhte auf Zuchterfolgen, Motorisierung und dem Einsatz von Kunstdünger und Pflanzenschutzmitteln. In den 1990er Jahren setzte eine Umorientierung hin zu stärkerer Marktorientierung und ökologischen Zielen ein. 
+Während des Zweiten Weltkriegs werden die Bauer*innen idolisiert, doch viele werden zum Militärdienst eingezogen. Trotz verschlechterter Bedingungen steigt die Produktion dank Ertrags- und Produktivitätssteigerungen. Diese steigt so weit, dass die Produktionsaktivität mit dem Bevölkerungswachstum mithalten kann. Die Selbstversorgung nimmt zu. Die Nachkriegszeit war geprägt von einem raschen Strukturwandel und einer enormen Steigerung der Erträge. Eine neue Agrarrevolution beruhte auf Zuchterfolgen, Motorisierung und dem Einsatz von Kunstdünger und Pflanzenschutzmitteln. In den 1990er Jahren setzte eine Umorientierung hin zu stärkerer Marktorientierung und ökologischen Zielen ein. 
 
 ## Dein Stück Erde in Bern 
 
